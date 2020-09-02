@@ -1,0 +1,6 @@
+Server = https://mirror.0x.sg/archlinux/$repo/os/$arch
+Server = https://mirror.telkomuniversity.ac.id/archlinux/$repo/os/$arch
+Server = https://ftp.jaist.ac.jp/pub/Linux/ArchLinux/$repo/os/$arch
+Server = https://mirrors.cat.net/archlinux/$repo/os/$arch
+Server = http://mirrors.cat.net/archlinux/$repo/os/$arch
+
